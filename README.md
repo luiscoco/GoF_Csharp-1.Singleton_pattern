@@ -41,3 +41,8 @@ public class Singleton
     // Add other methods and properties here
 }
 ```
+
+## How to setup Github actions
+
+![Csharp Github actions](https://github.com/luiscoco/GoF_Csharp-1.Singleton_pattern/assets/32194879/8e86c080-bdd5-4a39-97ef-b877647a3217)
+
