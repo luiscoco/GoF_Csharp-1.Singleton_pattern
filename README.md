@@ -3,6 +3,15 @@
 ```csharp
 ﻿using System;
 
+class Program
+{
+    static void Main()
+    {
+        Singleton singleton = Singleton.GetInstance();
+        Console.WriteLine(singleton.Function());
+    }
+}
+
 public class Singleton
 {
     private static Singleton instance;
@@ -25,14 +34,5 @@ public class Singleton
     }
 
     // Add other methods and properties here
-}
-
-class Program
-{
-    static void Main()
-    {
-        Singleton singleton = Singleton.GetInstance();
-        Console.WriteLine(singleton.Function());
-    }
 }
 ```
