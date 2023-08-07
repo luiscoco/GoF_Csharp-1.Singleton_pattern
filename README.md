@@ -1,5 +1,7 @@
 # GoF_Csharp-Singleton_pattern
 
+The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. This is useful when you want to control the number of instances of a class and ensure that all parts of the application access the same instance.
+
 ```csharp
 ﻿using System;
 
