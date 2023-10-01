@@ -1,9 +1,16 @@
 # GoF_Csharp-Singleton_pattern
 
+https://refactoring.guru/design-patterns/singleton
+
+https://www.dotnettricks.com/learn/designpatterns/singleton-design-pattern-dotnet
+
 The Gang of Four (GoF) design patterns are a collection of 23 design patterns that were introduced by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides in their book "Design Patterns: Elements of Reusable Object-Oriented Software," published in 1994. These patterns provide solutions to common software design problems and help in creating flexible, maintainable, and scalable software systems. The patterns are categorized into three groups: Creational, Structural, and Behavioral patterns. Here's a brief overview of each pattern:
 
 ## Singleton pattern (Creational Patterns):
 Ensures that "A CLASS HAS ONLY ONE INSTANCE" and provides a global point of access to that instance. This is useful when you want to control the number of instances of a class and ensure that all parts of the application access the same instance.
+
+![image](https://github.com/luiscoco/GoF_Csharp-1.Singleton_pattern/assets/32194879/3726875a-cda9-4706-81da-f435a3ca7cfa)
+
 
 ##  Pattern - UML Diagram & Implementation
 The UML class diagram for the implementation of the Singleton design pattern is given below:
